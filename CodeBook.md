@@ -1,9 +1,11 @@
 #Codebook
+
 ##Purpose
 
 This Codebook has the aim of explaining the variables and how each input was considered in order to create a tidy dataset with the averages.
 
 ##Variables and description
+
 Test_X: Represents the data set for Test measurements.
 Test_Y: Represents the activity for the Test input.
 Test_Subject: Represents the information regarding the people which did the tests.
